@@ -1,0 +1,12 @@
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\bin\Debug\XO_Game.exe.config
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\bin\Debug\XO_Game.exe
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\bin\Debug\XO_Game.pdb
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\bin\Debug\Guna.UI2.dll
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.AssemblyReference.cache
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.Form1.resources
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.Properties.Resources.resources
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.GenerateResource.cache
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.CoreCompileInputs.cache
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.csproj.Up2Date
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.exe
+C:\Users\YEP\Desktop\Forms\XO_Game\XO_Game\obj\Debug\XO_Game.pdb
