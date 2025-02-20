@@ -1,5 +1,5 @@
-# TicTacToe_GameInWindosForms
-*Tic-Tac-Toe Game in C# (Windows Forms)*
+# Tic Tac Toe Game In Windows Forms
+Tic-Tac-Toe Game in C# (Windows Forms)
 
 Relive the classic game of Tic-Tac-Toe,
  developed in C#  using Windows Forms! This project presents 
